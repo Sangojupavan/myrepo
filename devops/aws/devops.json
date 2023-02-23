@@ -12,7 +12,7 @@
         "source_ami": "ami-0f8ca728008ff5af4",
         "instance_type": "t2.micro",
         "ssh_username": "key",
-        "ami_name": "cute"
+        "ami_name": "iam"
       }
     ],
     "provisioners": [
